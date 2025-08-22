@@ -20,5 +20,6 @@ int main(void) {
 
     printf("I\nam\nready\nto\ncode!\n");
 
+    printf("A\tB\tC\n");
     return 0;
 }
