@@ -1,0 +1,18 @@
+/*
+
+*/
+
+#include <stdio.h>
+int main(void) {
+    int courseID = 2271;
+    int studentID = 20676;
+    int difference = studentID - courseID;
+
+printf("Name: \t\t\t\tKiernan Lauderdale\n");
+    printf("Course ID: \t\t\t%d\n", courseID);
+    printf("Student ID: \t\t\t%d\n", studentID);
+    printf("Student ID - Course ID is: \t%d\n", studentID - courseID);
+
+    return (0);
+    
+}
